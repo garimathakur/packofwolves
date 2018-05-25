@@ -1,0 +1,37 @@
+
+a:visited {
+	color: #FA2B00;
+	text-decoration: none;
+}
+
+a:link {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#B92000;
+	text-decoration: none;
+}
+
+a:active {
+    color: #B92000;
+}
+
+/*.font {
+	font-size:10em;
+	font-family:baskerville; 
+	line-height: 900px;
+	text-align: center;
+	letter-spacing: 30px;
+}*/
+
+body {font-size:4em;
+	font-family:baskerville,baskerville old face; 
+	font-style: italic;
+
+	letter-spacing: 5px;
+	margin-left: 10%;
+	margin-top:5%;}
+
+

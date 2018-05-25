@@ -1,0 +1,103 @@
+
+div {
+ 
+  color: red;
+ font-family: 'baskerville', baskerville old face;
+ font-style: italic;
+ overflow: hidden;
+
+}
+
+#t1 {
+	display: none;
+	margin-top: 1%;
+	font-size: 50%;
+	margin-left: 5%;
+}
+
+#t2 {
+	display: none;
+	margin-top: 2%;
+	font-size: 100%;
+	margin-left: 10%;
+}
+#t3 {
+	display: none;
+	margin-top: 2%;
+	font-size: 150%;
+	margin-left: 15%;
+}
+#t4 {
+	display: none;
+	margin-top: 2%;
+	font-size: 200%;
+	margin-left: 20%;
+}
+#t5 {
+	display: none;
+	margin-top: 2%;
+	font-size: 250%;
+	margin-left: 25%;
+}
+#t6 {
+	display: none;
+	margin-top: 2%;
+	font-size: 300%;
+	margin-left: 30%;
+}
+
+#t6 {
+	display: none;
+	margin-top: 2%;
+	font-size: 380%;
+	margin-left: 33%;
+}
+#t7 {
+	display: none;
+	margin-top: 2%;
+	font-size: 490%;
+	margin-left: 40%;
+}
+
+#t8 {
+	display: none;
+	margin-top: 2%;
+	font-size: 650%;
+	margin-left: 45%;
+
+}
+
+#t9 {
+	display: none;
+	margin-top: 1%;
+	font-size: 900%;
+	margin-left: 50%;
+}
+
+#t10 {
+	display: none;
+	margin-top: 2%;
+	font-size: 1550%;
+	margin-left: 55%
+}
+
+a:link {
+    color: red;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+   text-decoration: none;
+   color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}

@@ -1,0 +1,31 @@
+
+body {
+    text-align:center;
+    font-size:5em;
+    color: white;
+font-family: 'Montserrat', sans-serif;
+    background-color:black;
+    letter-spacing: 2px;
+    margin-top:20%;
+}
+
+
+
+
+a:visited {
+    color: white;
+	text-decoration: none;
+}
+
+a:link {
+    color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;}
+
+	#div2:hover {
+    color:#C98249;
+text-decoration: none;}
+

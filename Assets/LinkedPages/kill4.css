@@ -1,0 +1,132 @@
+/*body {
+    background-image: url("../images/captive.jpg");
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+*/
+body {
+    margin: 0;
+    padding: 0;
+    border: none;
+background-color: #FF0080;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 200%;
+     font-family: 'baskerville', baskerville old face;
+ font-style: italic;
+ color: yellow;
+    }
+
+/*.background {
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/faces2.jpg');
+    background-repeat: no-repeat;
+}*/
+
+
+img {
+   
+    
+    width: 80%;
+ display: block;
+margin-left: auto;
+    margin-right: auto;
+   
+    
+  
+    
+    
+   /* animation-name: fadeIn;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-duration: 2s;
+    animation-fill-mode:forwards;*/
+    
+}
+
+.img1 {
+   
+    
+    width: 80%;
+ display: block;
+margin-left: auto;
+    margin-right: auto;
+   
+    
+    overflow: hidden;
+    
+    
+ /*   animation-name: fadeIn;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-duration: 2s;
+    animation-fill-mode:forwards;*/
+    
+}
+
+
+.img2 {
+   
+    
+    width: 80%;
+ display: block;
+margin-left: auto;
+    margin-right: auto;
+   margin-top: 12%;
+    
+    overflow: hidden;
+    
+/*    
+    animation-name: fadeIn;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-duration: 2s;
+    animation-fill-mode:forwards;*/
+    
+}
+
+
+
+h1 {
+  font-size: 15pt;
+font-family: 'baskerville', baskerville old face;
+ 
+
+
+  text-align: justify;
+  margin-top: 35%;
+  color: yellow;
+
+  cursor: none;
+  user-select: none;
+  display: none;
+
+  white-space: nowrap;
+ 
+}
+
+
+a:link {
+    color: yellow;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+   text-decoration: none;
+   color: yellow;
+}
+
+/* mouse over link */
+a:hover {
+    color: pink;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}

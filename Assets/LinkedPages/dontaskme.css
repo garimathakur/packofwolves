@@ -1,0 +1,72 @@
+
+
+
+
+#start {
+  font-size: 25pt;
+  font-family: baskerville;
+  /*animation: type 1s fadeIn(30, end);*/
+ 
+position: absolute; LEFT: 150PX;
+  text-align: center;
+  margin-top: 15%;
+  color: white;
+
+  cursor: none;
+  user-select: none;
+  /*display: none;*/
+
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: bold;
+}
+
+/*#line1 {
+  font-size: 15pt;
+  font-family: aerial;
+  animation: blurIn 3s 1 ease;
+  margin-right: auto;
+  margin-left: 45%;
+  text-align: left;
+  margin-top: 15%;
+  color:#997755;
+  cursor: none;
+  opacity:0.4;
+  user-select: none;
+  display: none;
+  white-space: nowrap;
+  overflow: hidden;
+  background-image: none !important;
+}
+*/
+

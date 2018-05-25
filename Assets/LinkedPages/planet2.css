@@ -1,0 +1,61 @@
+
+
+
+
+
+a:link {
+    color: gray;
+    text-decoration: none;
+    border-style:solid;
+    position: absolute;
+    margin-left: 90%;
+    margin-top: 2%;
+     font-size: 1em;
+     padding: 2pt;
+  font-family:baskerville;
+   z-index: 1;
+
+}
+
+/* visited link */
+a:visited {
+    color: gray;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: gray;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: bold;
+}
+
+/*#line1 {
+  font-size: 15pt;
+  font-family: aerial;
+  animation: blurIn 3s 1 ease;
+  margin-right: auto;
+  margin-left: 45%;
+  text-align: left;
+  margin-top: 15%;
+  color:#997755;
+  cursor: none;
+  opacity:0.4;
+  user-select: none;
+  display: none;
+  white-space: nowrap;
+  overflow: hidden;
+  background-image: none !important;
+}
+*/
+

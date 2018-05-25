@@ -1,0 +1,54 @@
+
+body {
+    text-align:left;
+    font-size:2em;
+font-family: 'Montserrat', sans-serif;
+text-transform:uppercase;
+    background-color:black;
+    margin-top:10;
+}
+
+#div, #div1, #div2, #div3, #div4 {margin-left: 5%;
+margin-top:2%;}
+#div:hover {
+    color:#FFFFFF;
+}
+
+#div1:hover {
+    color:#CFCFCF;
+}
+
+#div2:hover {
+    color:#B7B7B7;
+}
+
+#div3:hover {
+    color:#4F4E4E;
+}
+
+#div4:hover {
+    color:#383737;
+}
+
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+   text-decoration: none;
+   color: black;
+}
+
+/* mouse over link */
+a:hover {
+      color:#383737;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+

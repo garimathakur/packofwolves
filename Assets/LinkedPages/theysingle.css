@@ -1,0 +1,54 @@
+
+
+
+/*.font {
+	font-size:10em;
+	font-family:baskerville; 
+	line-height: 900px;
+	text-align: center;
+	letter-spacing: 30px;
+}*/
+
+
+
+
+p
+{font-size:2em;
+	font-family: baskerville,  baskerville old face;
+font-style: italic;
+letter-spacing: 5px;
+text-align: center;
+margin-top: 20%; 
+color: white;
+margin-left: 10%
+
+}
+
+
+a:hover{ color:#CE2626; }
+
+
+body{background-color: black;}
+
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+     color: white;
+    text-decoration: none;}
+
+/* mouse over link */
+a:hover {
+ color: red;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+     color: red;
+    text-decoration: none;
+}

@@ -1,0 +1,50 @@
+
+
+
+/*.font {
+	font-size:10em;
+	font-family:baskerville; 
+	line-height: 900px;
+	text-align: center;
+	letter-spacing: 30px;
+}*/
+
+
+
+
+p
+{font-size:10em;
+font-family: Libre Baskerville, serif;
+font-style: italic;
+letter-spacing: 5px;
+text-align: left;
+margin-top: 20%; 
+color: #CE2626;
+margin-left: 10%
+
+}
+
+body{background-color: black;}
+
+
+a:link {
+    color: red;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+     color: red;
+    text-decoration: none;}
+
+/* mouse over link */
+a:hover {
+ color: white;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+     color: red;
+    text-decoration: none;
+}

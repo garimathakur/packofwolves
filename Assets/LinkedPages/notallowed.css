@@ -1,0 +1,49 @@
+
+
+
+/*.font {
+	font-size:10em;
+	font-family:baskerville; 
+	line-height: 900px;
+	text-align: center;
+	letter-spacing: 30px;
+}*/
+
+
+body{background-color: black;}
+
+p
+{ font-family: baskerville,  baskerville old face;
+	font-size: 4em;
+font-style: italic;
+letter-spacing: 5px;
+text-align: left;
+margin-top: 15%; 
+color: yellow;
+margin-left: 8%
+
+}
+
+
+#div1 {text-decoration: none;}
+
+a:hover{ color:white;
+}
+
+a:active {
+    color: yellow;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+	color: yellow;
+    text-decoration: none;
+}
+
+a:hover {
+  font-style: bold;
+    color: white;
+}

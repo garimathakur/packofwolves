@@ -1,0 +1,165 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: none;
+
+    background-image: url('../images/prayer4.jpg');
+
+    background-size: 100% 258%;
+
+  
+
+    }
+/*.text {
+  font-size: 28pt;
+  color: white;
+  font-family: baskerville;
+  text-align: center;
+}*/
+
+
+#start {
+  font-size: 25pt;
+  font-family: baskerville;
+  /*animation: fadeIn 3s 1 ease;*/
+  font-style: italic;
+  margin-right: 0%;
+  margin-left: 58%;
+  text-align: left;
+  margin-top: 10%;
+  color: white;
+
+  cursor: none;
+  user-select: none;
+  
+
+  
+}
+
+#line1 {
+  font-size: 25pt;
+  font-family: baskerville;
+  /*animation: fadeIn 3s 1 ease;*/
+  font-style: italic;
+  margin-right: 0%;
+  margin-left: 58%;
+  text-align: left;
+  margin-top: 3%;
+  color: white;
+ 
+  cursor: none;
+  user-select: none;
+  display: none;
+
+}
+
+#line2 {
+  font-size: 25pt;
+  font-family: baskerville;
+  /*animation: fadeIn 3s 1 ease;*/
+  font-style: italic;
+  margin-right: 0%;
+  margin-left: 58%;
+  text-align: left;
+  margin-top: 3%;
+  color: white;
+  
+  cursor: none;
+  user-select: none;
+  display: none;
+
+}
+
+#line3 {
+  font-size: 25pt;
+  font-family: baskerville;
+  /*animation: fadeIn 3s 1 ease;*/
+  font-style: italic;
+  margin-right: 0%;
+  margin-left: 58%;
+  text-align: left;
+  margin-top: 3%;
+  color: white;
+  
+  cursor: none;
+  user-select: none;
+  display: none;
+
+}
+
+#line4 {
+  font-size: 25pt;
+  font-family: baskerville;
+  /*animation: fadeIn 3s 1 ease;*/
+  font-style: italic;
+  margin-right: 0%;
+  margin-left: 58%;
+  text-align: left;
+  margin-top: 1%;
+  color: white;
+  
+  cursor: none;
+  user-select: none;
+  display: none;
+
+}
+
+#start:hover {
+  color: black;
+}
+
+#line1:hover {
+  color: black;
+}
+
+#line2:hover {
+  color: black;
+}
+
+#line3:hover {
+  color: yellow;
+}
+
+#line4:hover {
+  color: yellow;
+}
+
+body.newbg {
+    margin: 0;
+    padding: 0;
+    border: none;
+
+    background-image: url('../images/prayer4.jpg');
+
+    background-size: 100% 258%;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: yellow;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+
+/*@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+*/
