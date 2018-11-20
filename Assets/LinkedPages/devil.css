@@ -13,7 +13,7 @@ body {
     }
 
 .photo {
-    background-image: url('../images/devil.jpg');
+    background-image: url('../Images/devil.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-color: black;
