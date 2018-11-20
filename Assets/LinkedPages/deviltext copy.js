@@ -59,7 +59,7 @@ function image01() {
 
 	$('#line2').hide(1);
 	
-	document.body.style.backgroundImage = 'url(images/image01.png)';
+	document.body.style.backgroundImage = 'url(Images/image01.png)';
 	document.body.style.backgroundSize = '100%';
 
 }
