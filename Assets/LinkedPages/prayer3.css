@@ -11,7 +11,7 @@ body {
 	padding: 0;
 	border: none;
 
-    background-image: url('../images/prayer2.jpg');
+    background-image: url('../Images/prayer2.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
@@ -26,7 +26,7 @@ body {
 }*/
 
 .photo {
-    background-image: url('../images/prayer3.jpg');
+    background-image: url('../Images/prayer3.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-blend-mode: screen;
