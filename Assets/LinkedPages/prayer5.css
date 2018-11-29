@@ -3,7 +3,7 @@ body {
     padding: 0;
     border: none;
 
-    background-image: url('../images/prayer4.jpg');
+    background-image: url('../Images/prayer4.jpg');
 
     background-size: 100% 258%;
 
@@ -129,7 +129,7 @@ body.newbg {
     padding: 0;
     border: none;
 
-    background-image: url('../images/prayer4.jpg');
+    background-image: url('../Images/prayer4.jpg');
 
     background-size: 100% 258%;
 }
